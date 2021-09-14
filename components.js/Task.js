@@ -48,3 +48,12 @@ const styles = StyleSheet.create({
         borderRadius: 5
     },
 })
+
+
+
+
+
+
+
+
+/*Finally learned how to commit one file at a time to put diff message/note on each XD */
